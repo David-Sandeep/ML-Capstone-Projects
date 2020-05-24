@@ -7,4 +7,4 @@
 #### The second project is Used Car Price prediction the problem statement is to predict the price of a used car
 #### Project file is named after Used Car Price Prediction.ipynb
 #### We can find the data in train.csv and test.csv files
-#### Project is under report.pdf file
+#### Project report is under report.pdf file
